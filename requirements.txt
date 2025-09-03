@@ -1,0 +1,9 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+wolframalpha
+psutil
+pyjokes
+Pillow
+pyautogui
+requests
